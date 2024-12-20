@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Build directory
+lib/
+bin/
+build/
+
+# Output files
+output.txt
+*.out
+
+# Temporary files
+*.log
+*.tmp
